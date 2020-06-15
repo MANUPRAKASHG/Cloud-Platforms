@@ -11,7 +11,7 @@ float prevTemp = 0;
 const char* server = "api.thingspeak.com";
 String apiKey ="YCOSW79WPCSLLIH2";
 const char* MY_SSID = "srinivas"; 
-const char* MY_PWD = "itsme123go";
+const char* MY_PWD = "********";
 int sent = 0;
 void setup() {
   Serial.begin(115200);
