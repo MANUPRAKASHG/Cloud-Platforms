@@ -38,7 +38,7 @@
 /************************* WiFi Access Point *********************************/
 
 #define WLAN_SSID       "srinivas"
-#define WLAN_PASS       "itsme123go"
+#define WLAN_PASS       "***********"
 
 /************************* Adafruit.io Setup *********************************/
 
